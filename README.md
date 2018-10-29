@@ -10,6 +10,8 @@ mobile frontend simple rem responsive code
 复制整个文件代码，放在网页的head中。
 不需要定义body的font-size值。
 
+设置<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> 
+
 PX与REM的转换(区别于手淘版)
 
 1rem = 100px
